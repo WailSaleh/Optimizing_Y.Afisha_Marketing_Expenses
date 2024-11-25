@@ -44,7 +44,7 @@ All dates in this table are in YYYY-MM-DD format.
 
 **costs:**
 
-*source_id: identifier of the ad source
+*source_id: identifier of the ad source*
 
 *dt: data*
 
